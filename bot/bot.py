@@ -12,4 +12,4 @@ if mee6_debug:
     logging.basicConfig(level=logging.DEBUG)
 
 bot = Mee6(redis_url=redis_url)
-bot.run(token)
+bot.run(MTAwMTIwODQ2OTU0NzkyMTUwMA.GGmsHA.2D-MwoaFNJTFyAYzQl5lBz1eqdk15-c5Eetjys)
